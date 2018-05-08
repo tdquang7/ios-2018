@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TagsController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:TagsController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "tags">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NotesController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:NotesController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "note.images">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
